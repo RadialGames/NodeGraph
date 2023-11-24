@@ -1,0 +1,19 @@
+﻿{
+  "name": "com.radialgames.nodegraph",
+  "version": "1.0.0",
+  "displayName": "NodeGraph",
+  "description": "A generic C# architecture to create Nodes & Graphs",
+  "unity": "2019.4",
+  "license": "MIT",
+  "keywords": [
+    "node",
+    "graph",
+    "nodegraph"
+  ],
+  "author": {
+    "name": "Radial Games",
+    "email": "hello@radialgames.com",
+    "url": "https://github.com/RadialGames/Deck"
+  },
+  "type": "library"
+}
